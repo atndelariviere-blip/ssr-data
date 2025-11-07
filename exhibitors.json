@@ -8,7 +8,8 @@
     "country": "France",
     "city": "Lyon",
     "logoUrl": "https://www.icon-icon.com/wp-content/uploads/2021/06/logo-babolat.png",
-    "featured": "X"
+    "featured": "X",
+    "": ""
   },
   {
     "id": "anybuddy",
@@ -19,7 +20,8 @@
     "country": "France",
     "city": "Lille",
     "logoUrl": "https://padelmagazine.fr/wp-content/uploads/2022/02/Logo-Anybuddy.png",
-    "featured": ""
+    "featured": "",
+    "": ""
   },
   {
     "id": "quiet-please",
@@ -30,7 +32,8 @@
     "country": "Allemagne",
     "city": "",
     "logoUrl": "https://global.tennis-point.com/on/demandware.static/-/Library-Sites-TennisPoint/default/dw25c4bb05/brands/quiet-please.png",
-    "featured": "X"
+    "featured": "X",
+    "": ""
   },
   {
     "id": "all-in-country-grasse",
@@ -41,7 +44,8 @@
     "country": "France",
     "city": "Grasse",
     "logoUrl": "https://www.allin.academy/wp-content/uploads/2022/07/ALLIN-logo_academy.png",
-    "featured": ""
+    "featured": "",
+    "": ""
   },
   {
     "id": "padelcourt",
@@ -52,7 +56,8 @@
     "country": "France",
     "city": "Chambéry",
     "logoUrl": "https://www.padelcourt-tennis.fr/templates/propo5/images/logo_padelcourt_tennis_web2.png",
-    "featured": ""
+    "featured": "",
+    "": ""
   },
   {
     "id": "playtomic",
@@ -63,7 +68,8 @@
     "country": "",
     "city": "",
     "logoUrl": "https://www.royalracing1891.be/sites/default/files/styles/news_image/public/news-images/Playtomic_Logo_Vertical_Black_RGB%20-%20Copie.png?itok=WrcnzYqq",
-    "featured": ""
+    "featured": "",
+    "": ""
   },
   {
     "id": "blackcrown",
@@ -74,7 +80,8 @@
     "country": "Espagne",
     "city": "Barcelone",
     "logoUrl": "https://blackcrown.es/wp-content/uploads/2018/06/Black-Crown-Logo-Header.png",
-    "featured": "X"
+    "featured": "X",
+    "": ""
   },
   {
     "id": "butterfly",
@@ -85,7 +92,8 @@
     "country": "Japon",
     "city": "Tokyo",
     "logoUrl": "https://www.homegames.co.uk/images/shop/more/750x571_1333_f01ac8a0417fbe4ac3ad7685faa71ea6_1332e92b9904e944402760b3cfd6148c5b.jpg",
-    "featured": "X"
+    "featured": "X",
+    "": ""
   },
   {
     "id": "li-ning",
@@ -96,7 +104,8 @@
     "country": "Chine",
     "city": "Pékin",
     "logoUrl": "https://static.wixstatic.com/media/edcddb_cd77c1c1115849fb90a2381ef5add618~mv2.jpg/v1/fit/w_2500,h_1330,al_c/edcddb_cd77c1c1115849fb90a2381ef5add618~mv2.jpg",
-    "featured": ""
+    "featured": "",
+    "": ""
   },
   {
     "id": "Forza",
@@ -107,6 +116,19 @@
     "country": "Danemark",
     "city": "Lyngby",
     "logoUrl": "https://fz-forza.com/wp-content/uploads/2023/01/FZ-FORZA-logo-black.png",
-    "featured": ""
+    "featured": "",
+    "": ""
+  },
+  {
+    "id": "Yes Yes Padel",
+    "name": "Yes Yes Padel",
+    "sport": "Padel",
+    "category": "Constructeur terrain",
+    "description": "Déploiement d'un modèle local et coopératif de terrain de Padel accessibles, toute l’année en s'appuyant sur les clubs de tennis et en partenariat avec les collectivité locales",
+    "country": "France",
+    "city": "Marseille",
+    "logoUrl": "https://images.prismic.io/yyp-vitrine-next/aMWLJmGNHVfTPNpl_YYPPublicationLinkedIn150925.png",
+    "featured": "",
+    "": ""
   }
 ]
