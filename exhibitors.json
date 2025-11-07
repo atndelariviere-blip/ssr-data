@@ -1,0 +1,112 @@
+[
+  {
+    "id": "babolat",
+    "name": "Babolat",
+    "sport": "Tennis, Badminton",
+    "category": "Raquettes",
+    "description": "Marque française spécialisée dans le tennis et le badminton, célèbre pour ses gammes Pure Drive, Aero et Strike.",
+    "country": "France",
+    "city": "Lyon",
+    "logoUrl": "https://www.icon-icon.com/wp-content/uploads/2021/06/logo-babolat.png",
+    "featured": "X"
+  },
+  {
+    "id": "anybuddy",
+    "name": "Anybuddy",
+    "sport": "Tennis",
+    "category": "Logiciel",
+    "description": "Application pour réserver un court sans être membre, via clubs partenaires en France.",
+    "country": "France",
+    "city": "Lille",
+    "logoUrl": "https://padelmagazine.fr/wp-content/uploads/2022/02/Logo-Anybuddy.png",
+    "featured": ""
+  },
+  {
+    "id": "quiet-please",
+    "name": "Quiet Please",
+    "sport": "Tennis",
+    "category": "Équipements",
+    "description": "Marque tennis/street exclusive Sport‑Point.",
+    "country": "Allemagne",
+    "city": "",
+    "logoUrl": "https://global.tennis-point.com/on/demandware.static/-/Library-Sites-TennisPoint/default/dw25c4bb05/brands/quiet-please.png",
+    "featured": "X"
+  },
+  {
+    "id": "all-in-country-grasse",
+    "name": "All In Country Grasse",
+    "sport": "Padel",
+    "category": "Club de Padel",
+    "description": "11 terrains (4 indoor / 7 outdoor) - 1063 licenciés.",
+    "country": "France",
+    "city": "Grasse",
+    "logoUrl": "https://www.allin.academy/wp-content/uploads/2022/07/ALLIN-logo_academy.png",
+    "featured": ""
+  },
+  {
+    "id": "padelcourt",
+    "name": "Padelcourt®",
+    "sport": "Padel",
+    "category": "Constructeur terrain",
+    "description": "Fabrication française de terrains de padel premium.",
+    "country": "France",
+    "city": "Chambéry",
+    "logoUrl": "https://www.padelcourt-tennis.fr/templates/propo5/images/logo_padelcourt_tennis_web2.png",
+    "featured": ""
+  },
+  {
+    "id": "playtomic",
+    "name": "Playtomic",
+    "sport": "Padel, Tennis",
+    "category": "Logiciel",
+    "description": "Marketplace de réservation, leader mondial dans l'industrie du padel et du tennis.",
+    "country": "",
+    "city": "",
+    "logoUrl": "https://www.royalracing1891.be/sites/default/files/styles/news_image/public/news-images/Playtomic_Logo_Vertical_Black_RGB%20-%20Copie.png?itok=WrcnzYqq",
+    "featured": ""
+  },
+  {
+    "id": "blackcrown",
+    "name": "BlackCrown",
+    "sport": "Padel",
+    "category": "Raquettes",
+    "description": "Marque espagnole offrant des raquettes de padel équilibrées, appréciées pour leur confort et leur maniabilité.",
+    "country": "Espagne",
+    "city": "Barcelone",
+    "logoUrl": "https://blackcrown.es/wp-content/uploads/2018/06/Black-Crown-Logo-Header.png",
+    "featured": "X"
+  },
+  {
+    "id": "butterfly",
+    "name": "Butterfly (Tamasu)",
+    "sport": "Tennis de Table",
+    "category": "Raquettes",
+    "description": "Leader mondial dans les bois et revêtements de tennis de table.",
+    "country": "Japon",
+    "city": "Tokyo",
+    "logoUrl": "https://www.homegames.co.uk/images/shop/more/750x571_1333_f01ac8a0417fbe4ac3ad7685faa71ea6_1332e92b9904e944402760b3cfd6148c5b.jpg",
+    "featured": "X"
+  },
+  {
+    "id": "li-ning",
+    "name": "Li-Ning",
+    "sport": "Badminton",
+    "category": "Équipements",
+    "description": "Grande marque chinoise, très innovante.",
+    "country": "Chine",
+    "city": "Pékin",
+    "logoUrl": "https://static.wixstatic.com/media/edcddb_cd77c1c1115849fb90a2381ef5add618~mv2.jpg/v1/fit/w_2500,h_1330,al_c/edcddb_cd77c1c1115849fb90a2381ef5add618~mv2.jpg",
+    "featured": ""
+  },
+  {
+    "id": "Forza",
+    "name": "Forza",
+    "sport": "Badminton",
+    "category": "Raquettes",
+    "description": "Leader scandinave depuis 1990.",
+    "country": "Danemark",
+    "city": "Lyngby",
+    "logoUrl": "https://fz-forza.com/wp-content/uploads/2023/01/FZ-FORZA-logo-black.png",
+    "featured": ""
+  }
+]

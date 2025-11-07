@@ -1,0 +1,519 @@
+[
+  {
+    "id": "S1",
+    "title": "Conférence – Reconversion",
+    "date": "2027-04-16",
+    "start": "14:30",
+    "end": "15:30",
+    "type": "Conférence",
+    "sport": "Tennis",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Paul-Henri Mathieu",
+      "Modératrice : Claire Bernard"
+    ],
+    "descriptif": "Échanges sur la transition après carrière : formation, entrepreneuriat, coaching.",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S2",
+    "title": "Initiation Pickleball (débutants)",
+    "date": "2027-04-16",
+    "start": "17:00",
+    "end": "18:00",
+    "type": "Initiation",
+    "sport": "Pickleball",
+    "location": "Terrain de Pickleball",
+    "intervenants": "Staff Pickleball Paris",
+    "descriptif": "Séance découverte encadrée, prêt de matériel et règles de base.",
+    "featured": false,
+    "B2B": false,
+    "": ""
+  },
+  {
+    "id": "S3",
+    "title": "Démo bois & revêtements",
+    "date": "2027-04-17",
+    "start": "10:30",
+    "end": "11:15",
+    "type": "Démo",
+    "sport": "Tennis de Table",
+    "location": "Zone Tennis de Table",
+    "intervenants": "Expert Butterfly",
+    "descriptif": "Présentation des nouveautés bois/revêtements et test live.",
+    "featured": false,
+    "B2B": false,
+    "": ""
+  },
+  {
+    "id": "S4",
+    "title": "Initiation Badminton (tous niveaux)",
+    "date": "2027-04-17",
+    "start": "15:00",
+    "end": "16:00",
+    "type": "Initiation",
+    "sport": "Badminton",
+    "location": "Court B",
+    "intervenants": "Club local + animateurs FFBA",
+    "descriptif": "Atelier gestes de base, services et mini-matchs encadrés.",
+    "featured": true,
+    "B2B": false,
+    "": ""
+  },
+  {
+    "id": "S5",
+    "title": "Animation Babolat – test raquettes",
+    "date": "2027-04-18",
+    "start": "11:00",
+    "end": "12:00",
+    "type": "Animation marque",
+    "sport": "Padel",
+    "location": "Piste 1 Padel",
+    "intervenants": "Team Babolat",
+    "descriptif": "Test des dernières raquettes et conseils réglages cordage.",
+    "featured": false,
+    "B2B": false,
+    "": ""
+  },
+  {
+    "id": "S6",
+    "title": "Exhibition Padel (match de gala)",
+    "date": "2027-04-18",
+    "start": "16:00",
+    "end": "17:00",
+    "type": "Exhibition",
+    "sport": "Padel",
+    "location": "Piste 2 Padel",
+    "intervenants": "Joueurs invités (TBA)",
+    "descriptif": "Show match avec commentaires et échanges avec le public.",
+    "featured": false,
+    "B2B": false,
+    "": ""
+  },
+  {
+    "id": "S7",
+    "title": "Conférence - Le pickleball du future",
+    "date": "2027-04-16",
+    "start": "12:00",
+    "end": "13:00",
+    "type": "Conférence",
+    "sport": "Pickleball",
+    "location": "Salle de conférence",
+    "intervenants": "Caroline Dhenin",
+    "descriptif": "Echanger sur le devenir du Pickleball en France",
+    "featured": false,
+    "B2B": false,
+    "": ""
+  },
+  {
+    "id": "S8",
+    "title": "Présentation BlackCrown",
+    "date": "2027-04-17",
+    "start": "13:00",
+    "end": "14:00",
+    "type": "Animation marque",
+    "sport": "Padel",
+    "location": "Piste 1 Padel",
+    "intervenants": "Animateurs BlackCrown",
+    "descriptif": "Présentation de la nouvelle gamme de raquettes de Padel BlackCrown",
+    "featured": false,
+    "B2B": false,
+    "": ""
+  },
+  {
+    "id": "S9",
+    "title": "Ouvrir un centre de padel, badminton ou pickleball : pièges à éviter et leviers de réussite",
+    "date": "2027-04-16",
+    "start": "13:00",
+    "end": "14:00",
+    "type": "Conférence",
+    "sport": "Padel, Badminton, Pickleball",
+    "location": "Salle de conférence",
+    "intervenants": "Animateurs BlackCrown",
+    "descriptif": "Retour d’expérience d’opérateurs privés et publics, focus sur l’immobilier, les autorisations, le financement, le modèle économique.",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S10",
+    "title": "Le futur du retail spécialisé : comment vendre des équipements de raquettes en 2027 ?",
+    "date": "2027-04-16",
+    "start": "10:00",
+    "end": "11:00",
+    "type": "Conférence",
+    "sport": "Multisport",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Dir. retail Decathlon",
+      "Fondateur Tennis Pro",
+      "Expert e-commerce"
+    ],
+    "descriptif": "Le paysage du retail sportif évolue rapidement, porté par les mutations du commerce digital, les nouveaux modes de consommation et les attentes des pratiquants. Cette conférence dressera un état des lieux des modèles en mutation : explosion du Direct-to-Consumer, essor des marketplaces, montée en puissance du phygital, mais aussi enjeux liés à l’économie circulaire et à la seconde main. Comment les marques et distributeurs spécialisés peuvent-ils repenser leur stratégie retail ? Quels rôles joueront les clubs, les enseignes historiques et les plateformes digitales ? Une table-ronde avec distributeurs, experts du e-commerce et marques.",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S11",
+    "title": "Le futur des clubs de sports de raquettes : modèles économiques croisés & diversification des services",
+    "date": "2027-04-16",
+    "start": "11:30",
+    "end": "12:30",
+    "type": "Table ronde",
+    "sport": "Multisport",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Dir. club multi-activités",
+      "Consultant",
+      "Architecte"
+    ],
+    "descriptif": "Le modèle économique traditionnel des clubs est en pleine mutation. Pour garantir leur pérennité, les gestionnaires cherchent à diversifier leurs sources de revenus et à créer des lieux de vie. Cette conférence explorera les concepts de clubs hybrides mêlant sport, loisirs, socialisation et services annexes : espaces bien-être, zones de coworking, restauration, animations festives… Des témoignages d’opérateurs et d’investisseurs viendront nourrir la réflexion.",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S12",
+    "title": "Construire des infrastructures de raquettes indoor/outdoor durables et rentables",
+    "date": "2027-04-16",
+    "start": "14:00",
+    "end": "15:00",
+    "type": "Conférence",
+    "sport": "Multisport",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Constructeurs",
+      "bureau d’étude",
+      "collectivité"
+    ],
+    "descriptif": "Face aux enjeux écologiques et économiques, construire des installations sportives durables devient une priorité. Comment allier performance énergétique, modularité, attractivité architecturale et maîtrise des coûts ? Cette session donnera la parole à des architectes spécialisés, des maîtres d’ouvrage et des gestionnaires de structures innovantes. L’objectif : inspirer les porteurs de projets dans la conception ou la rénovation de leurs équipements.",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S13",
+    "title": "Marketing des sports de raquettes : comment parler à la nouvelle génération ?",
+    "date": "2027-04-16",
+    "start": "15:30",
+    "end": "16:30",
+    "type": "Conférence",
+    "sport": "Multisport",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Responsable Com FFT",
+      "influenceur",
+      "expert gamification"
+    ],
+    "descriptif": "Pour séduire les nouvelles générations, les acteurs des sports de raquettes doivent repenser leur communication. Quels sont les nouveaux codes ? Quelles plateformes privilégier ? Faut-il gamifier la pratique ? Quels rôles pour les influenceurs ou les ambassadeurs ? Cette conférence réunira experts en communication, créateurs de contenu et community managers de marques pour dresser un panorama des stratégies efficaces à l’ère du numérique.",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S14",
+    "title": "Femmes et sports de raquettes : construire des offres et des infrastructures plus inclusives",
+    "date": "2027-04-16",
+    "start": "17:00",
+    "end": "18:00",
+    "type": "Table ronde",
+    "sport": "Multisport",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Dirigeantes clubs",
+      "référente égalité",
+      "marque engagée"
+    ],
+    "descriptif": "Les femmes représentent une part croissante des pratiquants… mais les offres et les structures leur sont-elles vraiment adaptées ? Cette table-ronde abordera les leviers concrets pour améliorer l’accès et la fidélisation des pratiquantes : horaires spécifiques, matériel adapté, communication inclusive, événements dédiés, rôle des dirigeantes. Avec des retours d’expériences de clubs, fédérations et marques engagées.",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S15",
+    "title": "Data, IA et performance dans les sports de raquettes : quels outils pour les clubs et les coaches ?",
+    "date": "2027-04-17",
+    "start": "10:00",
+    "end": "11:00",
+    "type": "Conférence",
+    "sport": "Multisport",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Start-up SportTech",
+      "coach",
+      "FFT Lab"
+    ],
+    "descriptif": "Les nouvelles technologies s’invitent dans les clubs pour accompagner les pratiquants dans leur progression. Analyse vidéo, tracking de balle, tableaux de bord personnalisés, IA pour planifier les entraînements… Quels outils sont déjà disponibles et accessibles ? Quels bénéfices pour les coaches et les clubs ? Démonstrations et témoignages de start-ups sport tech et de structures déjà équipées.",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S16",
+    "title": "Ouvrir ou exploiter un centre de padel en 2027 : du permis à la rentabilité",
+    "date": "2027-04-17",
+    "start": "11:30",
+    "end": "12:30",
+    "type": "Conférence",
+    "sport": "Padel",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Exploitants",
+      "avocat urbanisme",
+      "fournisseurs"
+    ],
+    "descriptif": "Le padel attire toujours plus d’entrepreneurs… mais ouvrir un centre viable ne s’improvise pas. Cette session fera le tour complet des étapes clés : choix du foncier, dépôt de permis, sélection des fournisseurs, budget d’installation, politique tarifaire, stratégie d’animation et de fidélisation. Avec des conseils d’experts et le retour d’expérience d’exploitants de centres performants.",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S17",
+    "title": "Positionner sa marque de padel sur un marché en surchauffe : branding, différenciation, innovation",
+    "date": "2027-04-17",
+    "start": "14:00",
+    "end": "15:00",
+    "type": "Table ronde",
+    "sport": "Padel",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Marketeurs",
+      "designers",
+      "distributeurs"
+    ],
+    "descriptif": "Face à la multiplication des marques, comment émerger et durer ? Cette conférence s’adresse aux marques d’équipements et accessoires padel, aux distributeurs et aux marques blanches. Quels leviers de différenciation utiliser ? Quelles innovations technologiques ou marketing déployer ? Sponsoring, partenariats, influence : quelle stratégie adopter pour asseoir sa crédibilité sur le long terme ?",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S18",
+    "title": "Le circuit pro, un levier pour booster la pratique amateur ?",
+    "date": "2027-04-17",
+    "start": "15:30",
+    "end": "16:30",
+    "type": "Table ronde",
+    "sport": "Padel",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Responsables PPA/FIP",
+      "FFT",
+      "organisateurs"
+    ],
+    "descriptif": "Le développement des sports de raquettes repose aussi sur la dynamique du haut niveau. En quoi les circuits professionnels peuvent-ils servir de catalyseur pour la pratique amateur ? Quels partenariats imaginer entre les organisateurs de tournois, les fédérations et les clubs locaux ? Cette table-ronde réunira joueurs, organisateurs de compétitions et dirigeants de fédérations.",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S19",
+    "title": "Réinventer les clubs de tennis traditionnels : réaménagements, animations, nouveaux publics",
+    "date": "2027-04-17",
+    "start": "17:00",
+    "end": "18:00",
+    "type": "Conférence",
+    "sport": "Tennis",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Responsables FFT",
+      "dirigeants de clubs",
+      "architectes"
+    ],
+    "descriptif": "Le tennis doit se renouveler pour séduire de nouveaux publics. Cette conférence donnera des exemples concrets de clubs qui ont su se réinventer : rénovations d’infrastructures, organisation d’événements inédits, partenariats avec des marques lifestyle, accueil de nouvelles pratiques (pickleball, padel…). Témoignages croisés de dirigeants et de prestataires spécialisés.",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S20",
+    "title": "Tennis & digital : quels outils numériques pour gérer, animer et fidéliser ?",
+    "date": "2027-04-17",
+    "start": "10:00",
+    "end": "11:00",
+    "type": "Conférence",
+    "sport": "Tennis",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Start-up tennis tech",
+      "gestionnaires de clubs",
+      "éditeurs de logiciels"
+    ],
+    "descriptif": "Digitalisation de la relation client, automatisation de la gestion, enrichissement de l’expérience joueur… les outils numériques ne manquent pas. Mais comment choisir les bons ? Quels retours sur investissement attendre ? Cette session comparera différentes solutions et donnera la parole à des clubs utilisateurs pour un retour concret sur leur mise en place.",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S21",
+    "title": "Pickleball : construire son projet d’installation indoor ou outdoor en France",
+    "date": "2027-04-18",
+    "start": "11:30",
+    "end": "12:30",
+    "type": "Conférence",
+    "sport": "Pickleball",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Fournisseurs",
+      "exploitants",
+      "experts en réglementation"
+    ],
+    "descriptif": "Le pickleball est en plein essor en France, mais peu d’infrastructures existent encore. Cette conférence a pour objectif d’accompagner les porteurs de projet dans leur démarche : quelle taille de terrain ? Quelles normes ? Quels fournisseurs ? Quelles aides ? Un panorama complet des étapes, des coûts et des perspectives de développement.",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S22",
+    "title": "Positionner sa marque dans un marché naissant : branding, visibilité, réseaux de distribution",
+    "date": "2027-04-18",
+    "start": "14:00",
+    "end": "15:00",
+    "type": "Conférence",
+    "sport": "Pickleball",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Jeunes marques",
+      "distributeurs",
+      "responsables de communication"
+    ],
+    "descriptif": "Le pickleball est encore un marché vierge… mais pour combien de temps ? Cette conférence s’adresse aux marques souhaitant s’implanter dès maintenant pour occuper les meilleures places. Comment se faire connaître ? Où vendre ? Quels ambassadeurs mobiliser ? Retour d’expérience de pionniers du marché français et international.",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S23",
+    "title": "Badminton et compétitivité locale : développer la pratique en milieu urbain et périurbain",
+    "date": "2027-04-18",
+    "start": "15:30",
+    "end": "16:30",
+    "type": "Conférence",
+    "sport": "Badminton",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Dirigeants clubs",
+      "collectivités",
+      "ligue régionale"
+    ],
+    "descriptif": "Le badminton est un sport en plein développement… mais encore peu visible en dehors de certains bassins. Cette table-ronde abordera les solutions pour développer la pratique dans les zones moins équipées : mutualisation d’infrastructures, partenariats avec les municipalités, animation en milieu scolaire. Exemples de clubs moteurs et d’initiatives innovantes.",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S24",
+    "title": "Lancer un club nouvelle génération : bar à ping, ping social, ping urbain",
+    "date": "2027-04-18",
+    "start": "17:00",
+    "end": "18:00",
+    "type": "Table ronde",
+    "sport": "Tennis de table",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Fondateurs de bars à ping",
+      "Fédé",
+      "acteurs associatifs"
+    ],
+    "descriptif": "Le tennis de table se réinvente dans des lieux inattendus : bars, galeries commerciales, places publiques… Cette session présente des initiatives originales mêlant sport, musique, culture urbaine et convivialité. Comment monter ce type de projet ? Quel modèle économique ? Témoignages d’acteurs français et internationaux ayant transformé le ping en expérience sociale.",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S25",
+    "title": "La technologie dans le ping : robots, capteurs, entraînement augmenté",
+    "date": "2027-04-18",
+    "start": "10:00",
+    "end": "11:00",
+    "type": "Conférence",
+    "sport": "Tennis de table",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Marques tech",
+      "coachs",
+      "ingénieurs"
+    ],
+    "descriptif": "Le ping n’échappe pas à la vague technologique : robots d’entraînement, balles connectées, IA d’analyse gestuelle… Cette conférence vous plongera dans l’univers du ping 3.0 avec des démonstrations en live, des échanges avec des start-ups et des clubs ayant intégré ces outils dans leurs entraînements. Un avant-goût de l’avenir de la discipline !",
+    "featured": false,
+    "B2B": true,
+    "": ""
+  },
+  {
+    "id": "S26",
+    "title": "Sports de raquettes et nouvelles technologies : quelles applis, objets connectés et plateformes pour s’amuser, progresser et jouer plus ?",
+    "date": "2027-04-18",
+    "start": "10:00",
+    "end": "11:00",
+    "type": "Conférence",
+    "sport": "Multisport",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Marques tech",
+      "coachs",
+      "ingénieurs"
+    ],
+    "descriptif": "Matchmaking pour trouver des partenaires, applications d’analyse technique, scoring en ligne, capteurs de raquette, montres sportives, coaching digital… cette conférence vous présentera les meilleures solutions pour rendre votre pratique plus fun, plus efficace, et plus sociale. Avec démonstrations live !",
+    "featured": true,
+    "B2B": false,
+    "": ""
+  },
+  {
+    "id": "S27",
+    "title": "Dans les coulisses du matériel : comment sont conçues vos raquettes de padel ?",
+    "date": "2027-04-17",
+    "start": "12:00",
+    "end": "13:00",
+    "type": "Conférence",
+    "sport": "Padel",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Marques Padel",
+      "joueurs pros"
+    ],
+    "descriptif": "Poids, forme, mousse, carbone, sweet spot… Qu’est-ce qui différencie une raquette d’entrée de gamme d’un modèle pro ? Quelles évolutions technologiques pour demain ? Des ingénieurs et designers de grandes marques de padel viendront décrypter les dernières tendances, les matériaux innovants et l’impact de ces choix techniques sur votre jeu.",
+    "featured": true,
+    "B2B": false,
+    "": ""
+  },
+  {
+    "id": "S28",
+    "title": "Raquettes & Bien-être : Comment les sports de raquettes peuvent améliorer votre santé au quotidien",
+    "date": "2027-04-17",
+    "start": "15:00",
+    "end": "16:00",
+    "type": "Conférence",
+    "sport": "Multisport",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Medecins",
+      "Kinés"
+    ],
+    "descriptif": "Découvrez comment la pratique régulière du tennis, du padel, du badminton ou encore du tennis de table peut avoir des bénéfices concrets sur votre santé physique et mentale : amélioration de la condition cardio-respiratoire, renforcement musculaire, gestion du stress… Médecins du sport, kinés et coachs spécialisés partageront conseils, anecdotes et routines accessibles à tous les âges.",
+    "featured": true,
+    "B2B": false,
+    "": ""
+  },
+  {
+    "id": "S29",
+    "title": "Comment choisir la bonne discipline pour vous ou vos enfants ?",
+    "date": "2027-04-17",
+    "start": "18:00",
+    "end": "19:00",
+    "type": "Conférence",
+    "sport": "Multisport",
+    "location": "Salle de conférence",
+    "intervenants": [
+      "Coachs",
+      "FFT",
+      "FFB",
+      "FFTT"
+    ],
+    "descriptif": "Tennis, padel, pickleball, badminton, tennis de table… quelles sont les différences concrètes entre ces sports ? Quelles qualités développent-ils ? À partir de quel âge peut-on débuter ? Quel sport pour les plus compétitifs, les plus ludiques ou les plus doux ? Un moment d’échange idéal pour les familles, encadré par des éducateurs et ambassadeurs multisports.",
+    "featured": true,
+    "B2B": false,
+    "": ""
+  }
+]
