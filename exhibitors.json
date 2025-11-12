@@ -142,5 +142,17 @@
     "logo": "logos/kuikma.png",
     "featured": "X",
     "": ""
+  },
+  {
+    "id": "Hydrogen",
+    "name": "Hydrogen",
+    "sport": "Tennis, Padel",
+    "category": "Équipements",
+    "description": "La marque Hydrogen est considérée comme la première marque de vêtements de sport de luxe , la marque Skull développe des vêtements pour le tennis et le padel de la plus haute qualité, toujours en suivant les tendances de la mode.\n\nLes lignes de vêtements de tennis Hydrogen sont composées de t-shirts, shorts, Shorts longs et vestes aux contrastes élevés où le crâne est toujours présent de manière très visible",
+    "country": "Italie",
+    "city": "Limena, Padova",
+    "logo": "logos/hydrogen.png",
+    "featured": "",
+    "": ""
   }
 ]
