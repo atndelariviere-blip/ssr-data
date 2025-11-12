@@ -92,7 +92,7 @@
     "country": "Japon",
     "city": "Tokyo",
     "logoUrl": "https://www.homegames.co.uk/images/shop/more/750x571_1333_f01ac8a0417fbe4ac3ad7685faa71ea6_1332e92b9904e944402760b3cfd6148c5b.jpg",
-    "featured": "X",
+    "featured": "",
     "": ""
   },
   {
@@ -129,6 +129,18 @@
     "city": "Marseille",
     "logoUrl": "https://images.prismic.io/yyp-vitrine-next/aMWLJmGNHVfTPNpl_YYPPublicationLinkedIn150925.png",
     "featured": "",
+    "": ""
+  },
+  {
+    "id": "Joma",
+    "name": "Joma",
+    "sport": "Padel",
+    "category": "Équipements",
+    "description": "Joma Sport est une marque espagnole de vêtement de sport créée en 1965, la marque JOMA est spécialisée dans le développement et la fabrication de chaussures de sport ainsi que des équipements et d’accessoires de sport. La marque Joma est présente avec un réseau de distribution de plus de 107 pays dans le monde.",
+    "country": "Espagne",
+    "city": "Tolède",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Joma-logo.svg/langfr-330px-Joma-logo.svg.png",
+    "featured": "X",
     "": ""
   }
 ]
