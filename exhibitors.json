@@ -142,5 +142,17 @@
     "logo": "logos/joma.png",
     "featured": "X",
     "": ""
+  },
+  {
+    "id": "Kuikma",
+    "name": "Kuikma",
+    "sport": "Padel",
+    "category": "Équipements",
+    "description": "Kuikma est la marque spécialisée Padel chez Décathlon. Elle est composé d'une gamme de raquettes de Padel mais également d'une multitude d'équipements Padel.",
+    "country": "France",
+    "city": "Villeneuve-d'Ascq",
+    "logo": "logos/kuikma.png",
+    "featured": "",
+    "": ""
   }
 ]
