@@ -140,18 +140,6 @@
     "country": "France",
     "city": "Villeneuve-d'Ascq",
     "logo": "logos/kuikma.png",
-    "featured": "",
-    "": ""
-  },
-  {
-    "id": "Joma",
-    "name": "Joma",
-    "sport": "Padel",
-    "category": "Équipements",
-    "description": "Joma Sport est une marque espagnole de vêtement de sport créée en 1965, la marque JOMA est spécialisée dans le développement et la fabrication de chaussures de sport ainsi que des équipements et d’accessoires de sport. La marque Joma est présente avec un réseau de distribution de plus de 107 pays dans le monde.",
-    "country": "Espagne",
-    "city": "Tolède",
-    "logo": "logos/joma.png",
     "featured": "X",
     "": ""
   }
